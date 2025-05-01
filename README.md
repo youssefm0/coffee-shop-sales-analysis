@@ -1,36 +1,25 @@
-# Project 5 – Coffee Shop Sales Analysis
-
-## Project Overview
-This project involves analyzing coffee shop sales data extracted from vending machine transactions.  
-The project was divided into two phases: Data Processing (Python) and Data Visualization (Power BI).
-
-## Tools and Technologies:
-- Python 3.8 (Pandas, Matplotlib, Seaborn)
-- Power BI
-- Microsoft Excel
-- Git & GitHub
-
-## Project Structure:
-D:\Data Analysis Projects\Project 5 (Coffee)\
+D:\Data Analysis Projects\Project 5 (Coffee) 
 │
-├── Python Scripts\
-│     ├── index_1_processing.ipynb
-│     ├── index_2_processing.ipynb
+├── Documentation\
+│     ├── README.md
 │
-├── Cleaned CSV Files\
-│     ├── index_1_cleaned.csv
-│     ├── index_2_cleaned.csv
-│
-├── Power BI Dashboard\
-│     ├── Coffee_Shop_Analysis.pbix
-│
-├── Dashboard Screenshots\
+├── Dashboard ScreenShots\
 │     ├── Main_Records_Dashboard.png
 │     ├── Extended_Records_Dashboard.png
 │     ├── Top_Seller_Latte_Dashboard.png
 │     ├── Lowest_Seller_Espresso_Dashboard.png
 │
-└── README.md
+├── Power Bi\
+│     ├── Coffe Shop - Dashoard.pbix
+│
+├── Python\
+│     ├── Coffee Shop - Main Records.ipynb
+│     ├── Coffee Shop - Extended Records.ipynb
+│
+├── CSV\
+│     ├── Coffee Shop - Main Records.csv
+│     ├── Coffee Shop - Extended Records.csv
+
 Project Process:
 Data Cleaning and Processing (Python)
 Handled missing values.
